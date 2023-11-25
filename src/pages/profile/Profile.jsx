@@ -14,7 +14,7 @@ export default function Profile() {
                    <div className="profileRightTop">
                       <div className="profileCover">
                         <img className="profileCoverImg" alt="" src="/assets/post/6.jpeg"/>
-                        <img className="profileUserImg" alt="" src="/assets/person/3.jpeg"/>
+                        <img className="profileUserImg" alt="" src="/assets/person/2.jpeg"/>
                       </div>
 
                       <div className="profileInfo">
